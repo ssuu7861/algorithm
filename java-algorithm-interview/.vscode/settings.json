@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 16,
+  "editor.fontSize": 20,
   "editor.tabSize": 4,
   "java.completion.enabled": true,
   "java.saveActions.organizeImports": true,
@@ -15,5 +15,12 @@
       "org",
       "com"
   ],
-  "editor.autoIndent": "full"
+  "editor.autoIndent": "full",
+  "editor.formatOnSave": true,
+  "[java]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "jdk.java.onSave.organizeImports": true,
+  "java.project.importOnFirstTimeStartup": "automatic"
 }
