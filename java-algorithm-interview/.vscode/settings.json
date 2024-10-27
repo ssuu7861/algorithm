@@ -1,7 +1,19 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+  "editor.fontSize": 16,
+  "editor.tabSize": 4,
+  "java.completion.enabled": true,
+  "java.saveActions.organizeImports": true,
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "workbench.colorTheme": "Palenight (Mild Contrast)",
+  "java.import.gradle.enabled": true,
+  "java.import.maven.enabled": true,
+  "java.completion.importOrder": [
+      "java",
+      "javax",
+      "org",
+      "com"
+  ],
+  "editor.autoIndent": "full"
 }
