@@ -1,4 +1,4 @@
-package BOJ_7_1940;
+package BOJ_007_1940;
 
 import java.io.BufferedReader;
 import java.io.IOException;

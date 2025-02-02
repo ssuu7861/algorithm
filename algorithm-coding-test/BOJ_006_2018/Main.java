@@ -1,4 +1,4 @@
-package BOJ_6_2018;
+package BOJ_006_2018;
 
 import java.util.Scanner;
 
